@@ -1,0 +1,15 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern":[
+        "RR",
+        "RR"
+        
+    
+    ],
+    "key":{
+        "R":{"item":"modtut:thing_ingot"}
+      
+    },
+    "result":{"item":"modtut:thing"}
+
+}

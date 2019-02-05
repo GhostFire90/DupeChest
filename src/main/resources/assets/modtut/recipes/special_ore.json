@@ -1,0 +1,17 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern":[
+        "RE",
+        "D "
+        
+    
+    ],
+    "key":{
+        "R":{"item":"minecraft:redstone"},
+        "D":{"item":"minecraft:diamond"},
+        "E":{"item":"minecraft:emerald"}
+      
+    },
+    "result":{"item":"duper:special_ore"}
+
+}

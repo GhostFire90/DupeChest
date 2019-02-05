@@ -1,0 +1,16 @@
+[
+{
+  "modid": "duper",
+  "name": "DupeChest",
+  "description": "Duplicating Chest!",
+  "version": "0.0.1",
+  "mcversion": "${mcversion}",
+  "url": "",
+  "updateUrl": "",
+  "authorList": ["0_GhostFire_0"],
+  "credits": "Credits to immibis for the idea in his Chicken Bones Mod, wanted to recreate it! (Code credit me)",
+  "logoFile": "",
+  "screenshots": [],
+  "dependencies": []
+}
+]

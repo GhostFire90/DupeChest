@@ -1,0 +1,15 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern":[
+        "RR",
+        "RR"
+        
+    
+    ],
+    "key":{
+        "R":{"item":"duper:thing_ingot"}
+      
+    },
+    "result":{"item":"duper:thing"}
+
+}
